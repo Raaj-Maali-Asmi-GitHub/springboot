@@ -9,6 +9,7 @@ public class SpringBootBatchCvsToDbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootBatchCvsToDbApplication.class, args);
+		System.out.println("SpringBootBatchCvsToDbApplication main function start....");
 	}
 
 }
